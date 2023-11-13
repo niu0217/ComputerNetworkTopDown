@@ -14,3 +14,10 @@
 
 ### 3.1 Web服务器
 
+[web_server.py](https://github.com/niu0217/ComputerNetworkTopDown/blob/main/socket编程作业/WebServer/web_server.py)
+
+[web_client.py](https://github.com/niu0217/ComputerNetworkTopDown/blob/main/socket编程作业/WebServer/web_client.py)
+
+[response.html](https://github.com/niu0217/ComputerNetworkTopDown/blob/main/socket编程作业/WebServer/response.html)
+
+[HelloWorld.html](https://github.com/niu0217/ComputerNetworkTopDown/blob/main/socket编程作业/WebServer/HelloWorld.html)
